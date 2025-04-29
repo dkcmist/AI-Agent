@@ -79,7 +79,7 @@ In the `multi_agent_example.py`, we have a simple implementation of a customer b
 3. tools: process_refund, apply_discount
 
 
-# Contributing
+# Contribute
 Please feel free to fork this repository and create PRs. We are eager to get PRs on the following:
 1. Additional working examples of Agents
 2. Tracing and Logging of the Agents
